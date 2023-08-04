@@ -34,13 +34,7 @@
         <q-list class="q-ma-sm rounded-borders">
           <q-list class="no-border">
             <q-item clickable>
-              <q-item-section>
-                <img
-                  style="margin: auto"
-                  alt="Logo Uatizapi"
-                  src="~assets/logo-kohaku-180x180.png"
-                />
-              </q-item-section>
+              <q-item-section> </q-item-section>
             </q-item>
           </q-list>
         </q-list>
