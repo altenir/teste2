@@ -303,7 +303,8 @@ export default {
     };
   },
   async mounted() {
-    console.log(process.env.MINHA_VAR);
+    console.log("MINHA_VAR", process.env.MINHA_VAR);
+    console.log("SOME_KEY", process.env.SOME_KEY);
   },
   computed: {
     onGetLogout() {
